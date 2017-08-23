@@ -21,6 +21,10 @@
     <!-- Names like "Calendar", "500px", "camera_360" are not allowed or recommended. -->
     <string-array name="icons" translatable="false">
 	<!--AutoInjector Start-->
+		<item>comcoolapkmarket_100</item>
+		<item>comcoolapkmarket_101</item>
+		<item>comgoodseediconapck_102</item>
+		<item>comtopjohnwumagisk_103</item>
 	<!--AutoInjector End-->
     </string-array>
 
