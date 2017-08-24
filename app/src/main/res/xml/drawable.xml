@@ -22,6 +22,56 @@
 
     <category title="All" />
 	<!--AutoInjector Start-->
+		<item drawable="com_One_WoodenLetter_211" />
+		<item drawable="com_android_chrome_212" />
+		<item drawable="com_dv_adm_pay_213" />
+		<item drawable="com_zhihu_android_216" />
+		<item drawable="com_dv_adm_pay_217" />
+		<item drawable="com_netease_cloudmusic_218" />
+		<item drawable="com_google_android_apps_translate_219" />
+		<item drawable="com_sxy_ui_220" />
+		<item drawable="me_pkhope_longscreenshot_221" />
+		<item drawable="camera_222" />
+		<item drawable="com_xiwei_logistics_223" />
+		<item drawable="com_advasoft_touchretouch_224" />
+		<item drawable="com_netease_cloudmusic_225" />
+		<item drawable="com_taptap_226" />
+		<item drawable="com_oneplus_bbs_228" />
+		<item drawable="com_lerist_go_hosts_229" />
+		<item drawable="com_tencent_mm_230" />
+		<item drawable="com_ss_android_ugc_aweme_231" />
+		<item drawable="com_fenbi_android_solar_232" />
+		<item drawable="com_taobao_taobao_233" />
+		<item drawable="com_sina_weibo_234" />
+		<item drawable="com_sdu_didi_psnger_235" />
+		<item drawable="kh_android_funnyiconpack _227" />
+		<item drawable="com_psyone_brainmusic_236" />
+		<item drawable="com_netease_cloudmusic_237" />
+		<item drawable="com_feinno_cmcc_ruralitys_238" />
+		<item drawable="com_cmcc_nqweather_239" />
+		<item drawable="com_taobao_taobao_240" />
+		<item drawable="com_sdu_didi_psnger_241" />
+		<item drawable="com_eg_android_AlipayGphone_242" />
+		<item drawable="com_autonavi_minimap_243" />
+		<item drawable="com_ddiu_iconpack_anotherzuoxia_244" />
+		<item drawable="com_baidu_input_245" />
+		<item drawable="com_baidu_BaiduMap_246" />
+		<item drawable="com_baidu_tieba_247" />
+		<item drawable="com_baidu_tieba_248" />
+		<item drawable="tv_danmaku_bili_249" />
+		<item drawable="com_bilibili_app_blue_250" />
+		<item drawable="com_intsig_camscanner_251" />
+		<item drawable="com_google_android_GoogleCamera_252" />
+		<item drawable="com_youku_phone_253" />
+		<item drawable="com_youku_phone_254" />
+		<item drawable="com_zhihu_android_255" />
+		<item drawable="com_blizzard_wtcg_hearthstone_256" />
+		<item drawable="com_microsoft_office_outlook_257" />
+		<item drawable="com_blizzard_wtcg_hearthstone_258" />
+		<item drawable="com_bilibili_azurlane_259" />
+		<item drawable="com_lanzou_gwa_260" />
+		<item drawable="com_tencent_mm_261" />
+		<item drawable="tv_danmaku_bili_262" />
 	<!--AutoInjector End-->
 
 </resources>

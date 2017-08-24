@@ -21,6 +21,56 @@
     <!-- Names like "Calendar", "500px", "camera_360" are not allowed or recommended. -->
     <string-array name="icons" translatable="false">
 	<!--AutoInjector Start-->
+		<item>com_One_WoodenLetter_211</item>
+		<item>com_android_chrome_212</item>
+		<item>com_dv_adm_pay_213</item>
+		<item>com_zhihu_android_216</item>
+		<item>com_dv_adm_pay_217</item>
+		<item>com_netease_cloudmusic_218</item>
+		<item>com_google_android_apps_translate_219</item>
+		<item>com_sxy_ui_220</item>
+		<item>me_pkhope_longscreenshot_221</item>
+		<item>camera_222</item>
+		<item>com_xiwei_logistics_223</item>
+		<item>com_advasoft_touchretouch_224</item>
+		<item>com_netease_cloudmusic_225</item>
+		<item>com_taptap_226</item>
+		<item>com_oneplus_bbs_228</item>
+		<item>com_lerist_go_hosts_229</item>
+		<item>com_tencent_mm_230</item>
+		<item>com_ss_android_ugc_aweme_231</item>
+		<item>com_fenbi_android_solar_232</item>
+		<item>com_taobao_taobao_233</item>
+		<item>com_sina_weibo_234</item>
+		<item>com_sdu_didi_psnger_235</item>
+		<item>kh_android_funnyiconpack _227</item>
+		<item>com_psyone_brainmusic_236</item>
+		<item>com_netease_cloudmusic_237</item>
+		<item>com_feinno_cmcc_ruralitys_238</item>
+		<item>com_cmcc_nqweather_239</item>
+		<item>com_taobao_taobao_240</item>
+		<item>com_sdu_didi_psnger_241</item>
+		<item>com_eg_android_AlipayGphone_242</item>
+		<item>com_autonavi_minimap_243</item>
+		<item>com_ddiu_iconpack_anotherzuoxia_244</item>
+		<item>com_baidu_input_245</item>
+		<item>com_baidu_BaiduMap_246</item>
+		<item>com_baidu_tieba_247</item>
+		<item>com_baidu_tieba_248</item>
+		<item>tv_danmaku_bili_249</item>
+		<item>com_bilibili_app_blue_250</item>
+		<item>com_intsig_camscanner_251</item>
+		<item>com_google_android_GoogleCamera_252</item>
+		<item>com_youku_phone_253</item>
+		<item>com_youku_phone_254</item>
+		<item>com_zhihu_android_255</item>
+		<item>com_blizzard_wtcg_hearthstone_256</item>
+		<item>com_microsoft_office_outlook_257</item>
+		<item>com_blizzard_wtcg_hearthstone_258</item>
+		<item>com_bilibili_azurlane_259</item>
+		<item>com_lanzou_gwa_260</item>
+		<item>com_tencent_mm_261</item>
+		<item>tv_danmaku_bili_262</item>
 	<!--AutoInjector End-->
     </string-array>
 
