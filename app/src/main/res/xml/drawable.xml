@@ -238,6 +238,15 @@
 		<item drawable="com_xyhui_325" />
 		<item drawable="com_jiongji_andriod_card_326" />
 		<item drawable="com_android_bbkcalculator_327" />
+		<item drawable="com_coolapk_market_328" />
+		<item drawable="com_tencent_mobileqq_329" />
+		<item drawable="com_tencent_mobileqq_330" />
+		<item drawable="com_netease_cloudmusic_331" />
+		<item drawable="com_mdroid_read_332" />
+		<item drawable="com_atypicalgames_radiationisland_333" />
+		<item drawable="com_android_messaging_334" />
+		<item drawable="com_xiaomi_xmsf_335" />
+		<item drawable="com_android_dialer_336" />
 	<!--AutoInjector End-->
 
 </resources>
