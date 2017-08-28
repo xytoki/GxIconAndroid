@@ -246,6 +246,16 @@
 		<item>com_android_messaging_334</item>
 		<item>com_xiaomi_xmsf_335</item>
 		<item>com_android_dialer_336</item>
+		<item>tv_danmaku_bili_337</item>
+		<item>com_bilibili_app_blue_338</item>
+		<item>com_tencent_mobileqq_339</item>
+		<item>com_coolapk_market_340</item>
+		<item>com_quark_browser_341</item>
+		<item>com_greenpoint_android_mc10086_activity_342</item>
+		<item>com_sinovatech_unicom_ui_343</item>
+		<item>com_ct_client_344</item>
+		<item>bos_consoar_imagestitch_345</item>
+		<item>me_denley_android_ninepatch_346</item>
 	<!--AutoInjector End-->
     </string-array>
 
