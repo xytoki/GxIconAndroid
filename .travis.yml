@@ -19,8 +19,13 @@ deploy:
   skip_cleanup: true
   on:
     tags: true
+after_deploy:
+- node uploader.js
 before_install:
 - openssl aes-256-cbc -K $encrypted_1f83da9f01bd_key -iv $encrypted_1f83da9f01bd_iv
   -in weng.jks.enc -out weng.jks -d
 - chmod +x gradlew
+- nvm install 8
+- node --version
+- npm install
 
