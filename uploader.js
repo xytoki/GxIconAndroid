@@ -16,7 +16,7 @@ function randomWord(randomFlag, min, max){
     return str;
 }
 var id="o_"+randomWord(false,28);
-fs.readFile(__dirname.'/app/build/outputs/apk/com.e123.gxicon.signed.apk',function(err,theApk){
+fs.readFile(__dirname+'/app/build/outputs/apk/com.e123.gxicon.signed.apk',function(err,theApk){
 	if(err)process.exit(1);
 	var r=request.post({
 		url: 'https://developer.coolapk.com/apk/uploadApkFile?name=com.e123.gxicon.signed.apk&chunk=0&chunks=1&aid=156776&id='+id+'&type=&size=4267351',
