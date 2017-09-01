@@ -444,6 +444,19 @@
 		<item drawable="com_eg_android_alipaygphone_529" />
 		<item drawable="com_quark_browser_530" />
 		<item drawable="com_baidu_tieba_531" />
+		<item drawable="com_gxicon_it_532" />
+		<item drawable="com_tencent_tim_533" />
+		<item drawable="tv_danmaku_bili_534" />
+		<item drawable="com_eg_android_alipaygphone_535" />
+		<item drawable="com_eg_android_alipaygphone_536" />
+		<item drawable="me_gfuil_bmap_537" />
+		<item drawable="com_bilibili_app_blue_538" />
+		<item drawable="com_ruguoapp_jike_539" />
+		<item drawable="com_e123_gxicon_540" />
+		<item drawable="com_byfen_market_541" />
+		<item drawable="com_baidu_tieba_542" />
+		<item drawable="com_account_book_quanzi_543" />
+		<item drawable="com_gxicon_wumai_544" />
 	<!--AutoInjector End-->
 
 </resources>
