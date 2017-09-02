@@ -457,6 +457,30 @@
 		<item drawable="com_baidu_tieba_542" />
 		<item drawable="com_account_book_quanzi_543" />
 		<item drawable="com_gxicon_wumai_544" />
+		<item drawable="com_mojang_minecraftpe_545" />
+		<item drawable="com_tencent_tmgp_sgame_546" />
+		<item drawable="cn_wps_moffice_eng_547" />
+		<item drawable="com_tgelec_aqsh_548" />
+		<item drawable="com_kuaikan_comic_549" />
+		<item drawable="com_tencent_mobileqqi_552" />
+		<item drawable="com_tencent_qq_kddi_553" />
+		<item drawable="com_bilibili_app_blue_554" />
+		<item drawable="com_google_android_apps_fitness_555" />
+		<item drawable="com_google_android_apps_maps_556" />
+		<item drawable="com_niksoftware_snapseed_557" />
+		<item drawable="com_google_android_youtube_558" />
+		<item drawable="com_google_android_apps_adm_559" />
+		<item drawable="com_nianticproject_ingress_560" />
+		<item drawable="com_nianticlabs_pokemongo_561" />
+		<item drawable="com_andguru_telegram_messenger_562" />
+		<item drawable="org_telegram_messenger_563" />
+		<item drawable="com_zhihu_daily_android_564" />
+		<item drawable="com_e123_gxicon_565" />
+		<item drawable="com_google_android_apps_genie_geniewidget_566" />
+		<item drawable="org_kkdev_v2raygo_567" />
+		<item drawable="com_v2ray_ang_568" />
+		<item drawable="com_zjns_xposedinstaller_569" />
+		<item drawable="de_robv_android_xposed_installer_570" />
 	<!--AutoInjector End-->
 
 </resources>

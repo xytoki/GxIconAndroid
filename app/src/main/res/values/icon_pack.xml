@@ -456,6 +456,30 @@
 		<item>com_baidu_tieba_542</item>
 		<item>com_account_book_quanzi_543</item>
 		<item>com_gxicon_wumai_544</item>
+		<item>com_mojang_minecraftpe_545</item>
+		<item>com_tencent_tmgp_sgame_546</item>
+		<item>cn_wps_moffice_eng_547</item>
+		<item>com_tgelec_aqsh_548</item>
+		<item>com_kuaikan_comic_549</item>
+		<item>com_tencent_mobileqqi_552</item>
+		<item>com_tencent_qq_kddi_553</item>
+		<item>com_bilibili_app_blue_554</item>
+		<item>com_google_android_apps_fitness_555</item>
+		<item>com_google_android_apps_maps_556</item>
+		<item>com_niksoftware_snapseed_557</item>
+		<item>com_google_android_youtube_558</item>
+		<item>com_google_android_apps_adm_559</item>
+		<item>com_nianticproject_ingress_560</item>
+		<item>com_nianticlabs_pokemongo_561</item>
+		<item>com_andguru_telegram_messenger_562</item>
+		<item>org_telegram_messenger_563</item>
+		<item>com_zhihu_daily_android_564</item>
+		<item>com_e123_gxicon_565</item>
+		<item>com_google_android_apps_genie_geniewidget_566</item>
+		<item>org_kkdev_v2raygo_567</item>
+		<item>com_v2ray_ang_568</item>
+		<item>com_zjns_xposedinstaller_569</item>
+		<item>de_robv_android_xposed_installer_570</item>
 	<!--AutoInjector End-->
     </string-array>
 
