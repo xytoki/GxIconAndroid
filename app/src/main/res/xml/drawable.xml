@@ -481,6 +481,17 @@
 		<item drawable="com_v2ray_ang_568" />
 		<item drawable="com_zjns_xposedinstaller_569" />
 		<item drawable="de_robv_android_xposed_installer_570" />
+		<item drawable="com_one_woodenletter_571" />
+		<item drawable="com_google_android_apps_plus_572" />
+		<item drawable="com_chrome_canary_573" />
+		<item drawable="com_google_android_apps_photos_574" />
+		<item drawable="com_flarejune_perfectcolorbar_575" />
+		<item drawable="com_ushaqi_zhuishushenqi_576" />
+		<item drawable="com_netease_cloudmusic_577" />
+		<item drawable="com_android_deskclock_578" />
+		<item drawable="com_soft_blued_579" />
+		<item drawable="com_jingdong_app_mall_580" />
+		<item drawable="org_lineageos_recorder_581" />
 	<!--AutoInjector End-->
 
 </resources>
