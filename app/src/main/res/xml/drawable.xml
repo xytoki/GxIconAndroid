@@ -492,6 +492,11 @@
 		<item drawable="com_soft_blued_579" />
 		<item drawable="com_jingdong_app_mall_580" />
 		<item drawable="org_lineageos_recorder_581" />
+		<item drawable="com_tencent_tmgp_sgame_582" />
+		<item drawable="com_tencent_tmgp_sgame_583" />
+		<item drawable="com_duowan_bbs_584" />
+		<item drawable="game_msgjug_doubi_585" />
+		<item drawable="com_pandecheng_iconpack_586" />
 	<!--AutoInjector End-->
 
 </resources>
