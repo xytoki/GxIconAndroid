@@ -497,6 +497,11 @@
 		<item drawable="com_duowan_bbs_584" />
 		<item drawable="game_msgjug_doubi_585" />
 		<item drawable="com_pandecheng_iconpack_586" />
+		<item drawable="com_ceshi_587" />
+		<item drawable="com_downloading_main_baiduyundownload_588" />
+		<item drawable="com_yongche_android_589" />
+		<item drawable="com_dushe_movie_590" />
+		<item drawable="com_max_xiaoheihe_591" />
 	<!--AutoInjector End-->
 
 </resources>
