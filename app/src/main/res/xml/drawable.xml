@@ -502,6 +502,14 @@
 		<item drawable="com_yongche_android_589" />
 		<item drawable="com_dushe_movie_590" />
 		<item drawable="com_max_xiaoheihe_591" />
+		<item drawable="com_coolapk_market_592" />
+		<item drawable="com_android_chrome_593" />
+		<item drawable="com_one_woodenletter_594" />
+		<item drawable="com_samsung_android_messagine_595" />
+		<item drawable="com_tencent_mobileqq_596" />
+		<item drawable="com_google_android_youtube_597" />
+		<item drawable="com_samsung_android_dialer_598" />
+		<item drawable="com_samsung_android_contacts_599" />
 	<!--AutoInjector End-->
 
 </resources>
