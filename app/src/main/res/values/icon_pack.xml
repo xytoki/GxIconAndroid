@@ -509,6 +509,11 @@
 		<item>com_google_android_youtube_597</item>
 		<item>com_samsung_android_dialer_598</item>
 		<item>com_samsung_android_contacts_599</item>
+		<item>com_netease_uu_600</item>
+		<item>com_baidu_tieba_601</item>
+		<item>com_google_android_youtube_602</item>
+		<item>com_microsoft_xboxone_smartglass_603</item>
+		<item>com_netease_mail_604</item>
 	<!--AutoInjector End-->
     </string-array>
 

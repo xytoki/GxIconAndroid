@@ -510,6 +510,11 @@
 		<item drawable="com_google_android_youtube_597" />
 		<item drawable="com_samsung_android_dialer_598" />
 		<item drawable="com_samsung_android_contacts_599" />
+		<item drawable="com_netease_uu_600" />
+		<item drawable="com_baidu_tieba_601" />
+		<item drawable="com_google_android_youtube_602" />
+		<item drawable="com_microsoft_xboxone_smartglass_603" />
+		<item drawable="com_netease_mail_604" />
 	<!--AutoInjector End-->
 
 </resources>
