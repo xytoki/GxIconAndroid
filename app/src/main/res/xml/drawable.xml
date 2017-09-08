@@ -515,6 +515,7 @@
 		<item drawable="com_google_android_youtube_602" />
 		<item drawable="com_microsoft_xboxone_smartglass_603" />
 		<item drawable="com_netease_mail_604" />
+		<item drawable="com_qb_qtranslator_605" />
 	<!--AutoInjector End-->
 
 </resources>
