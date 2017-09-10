@@ -517,6 +517,30 @@
 		<item drawable="com_netease_mail_604" />
 		<item drawable="com_qb_qtranslator_605" />
 		<item drawable="fairywardrobe_606" />
+		<item drawable="com_qiyi_video_welcomeactivity_607" />
+		<item drawable="com_qiyi_video_welcomeactivity_608" />
+		<item drawable="com_qiyi_video_welcomeactivity_609" />
+		<item drawable="com_qiyi_video_welcomeactivity_610" />
+		<item drawable="com_qiyi_video_welcomeactivity_611" />
+		<item drawable="com_qiyi_video_welcomeactivity_612" />
+		<item drawable="com_qiyi_video_welcomeactivity_613" />
+		<item drawable="com_qiyi_video_welcomeactivity_614" />
+		<item drawable="com_qiyi_video_welcomeactivity_615" />
+		<item drawable="com_qiyi_video_welcomeactivity_616" />
+		<item drawable="com_qiyi_video_welcomeactivity_617" />
+		<item drawable="com_qiyi_video_welcomeactivity_618" />
+		<item drawable="com_qiyi_video_welcomeactivity_619" />
+		<item drawable="com_qiyi_video_welcomeactivity_620" />
+		<item drawable="com_qiyi_video_welcomeactivity_621" />
+		<item drawable="com_qiyi_video_welcomeactivity_622" />
+		<item drawable="com_qiyi_video_welcomeactivity_623" />
+		<item drawable="com_qiyi_video_welcomeactivity_624" />
+		<item drawable="com_qiyi_video_welcomeactivity_625" />
+		<item drawable="com_qiyi_video_welcomeactivity_626" />
+		<item drawable="com_qiyi_video_welcomeactivity_627" />
+		<item drawable="com_qiyi_video_welcomeactivity_628" />
+		<item drawable="com_qiyi_video_welcomeactivity_629" />
+		<item drawable="com_pandecheng_iconpack_630" />
 	<!--AutoInjector End-->
 
 </resources>
