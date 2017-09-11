@@ -541,6 +541,39 @@
 		<item drawable="com_qiyi_video_welcomeactivity_628" />
 		<item drawable="com_qiyi_video_welcomeactivity_629" />
 		<item drawable="com_pandecheng_iconpack_630" />
+		<item drawable="	com_baidu_tiebabz_631" />
+		<item drawable="com_baidu_tieba_mini_632" />
+		<item drawable="com_baidu_tieba_633" />
+		<item drawable="com_halo_wifikey_wifilocating_634" />
+		<item drawable="com_halo_wifikey_wifilocating_635" />
+		<item drawable="com_android_browser_636" />
+		<item drawable="com_tencent_karaoke_637" />
+		<item drawable="com_tencent_qqmusic_638" />
+		<item drawable="com_keramidas_titaniumbackup_639" />
+		<item drawable="com_tencent_qqpinyin_640" />
+		<item drawable="eu_chainfire_supersu_641" />
+		<item drawable="com_oneplus_gallery_642" />
+		<item drawable="com_sinovatech_unicom_ui_643" />
+		<item drawable="com_tencent_token_644" />
+		<item drawable="com_tmall_wireless_645" />
+		<item drawable="com_eg_android_alipaygphone_646" />
+		<item drawable="com_sina_weibo_647" />
+		<item drawable="com_qiyi_video_648" />
+		<item drawable="com_youku_phone_649" />
+		<item drawable="com_android_settings_650" />
+		<item drawable="com_oneplus_camera_651" />
+		<item drawable="com_android_mms_652" />
+		<item drawable="com_android_incallui_653" />
+		<item drawable="com_tencent_qqlive_654" />
+		<item drawable="com_tencent_mobileqq_655" />
+		<item drawable="com_tencent_mm_656" />
+		<item drawable="com_tencent_tmgp_sgame_657" />
+		<item drawable="com_ilongyuan_implosion_658" />
+		<item drawable="com_hippo_ehviewer_659" />
+		<item drawable="com_google_android_gm_660" />
+		<item drawable="one_codehz_container_661" />
+		<item drawable="com_smartisanos_smartfolder_aoa_662" />
+		<item drawable="com_xiaomi_mitv_phone_remotecontroller_horiwidgetmainactivityv2_663" />
 	<!--AutoInjector End-->
 
 </resources>
