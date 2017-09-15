@@ -575,6 +575,13 @@
 		<item drawable="com_smartisanos_smartfolder_aoa_662" />
 		<item drawable="com_xiaomi_mitv_phone_remotecontroller_horiwidgetmainactivityv2_663" />
 		<item drawable="com_kkeji_news_client_664" />
+		<item drawable="mark_via_665" />
+		<item drawable="com_quark_browser_666" />
+		<item drawable="com_netease_cloudmusic_667" />
+		<item drawable="com_baidu_tieba_668" />
+		<item drawable="tv_danmaku_bili_669" />
+		<item drawable="com_audlabs_viperfx_670" />
+		<item drawable="com_estrongs_android_pop_671" />
 	<!--AutoInjector End-->
 
 </resources>
