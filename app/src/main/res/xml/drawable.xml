@@ -582,6 +582,16 @@
 		<item drawable="tv_danmaku_bili_669" />
 		<item drawable="com_audlabs_viperfx_670" />
 		<item drawable="com_estrongs_android_pop_671" />
+		<item drawable="one_codehz_container_672" />
+		<item drawable="com_eg_android_alipaygphone_673" />
+		<item drawable="com_eg_android_alipaygphone_674" />
+		<item drawable="com_baidu_netdisk_675" />
+		<item drawable="com_quark_browser_676" />
+		<item drawable="com_taobao_taobao_677" />
+		<item drawable="com_taobao_taobao_678" />
+		<item drawable="mark_via_679" />
+		<item drawable="mark_via_z_680" />
+		<item drawable="cn_wps_moffice_eng_681" />
 	<!--AutoInjector End-->
 
 </resources>
