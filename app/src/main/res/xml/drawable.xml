@@ -592,6 +592,12 @@
 		<item drawable="mark_via_679" />
 		<item drawable="mark_via_z_680" />
 		<item drawable="cn_wps_moffice_eng_681" />
+		<item drawable="com_android_messaging_682" />
+		<item drawable="com_android_chrome_683" />
+		<item drawable="com_youku_phone_684" />
+		<item drawable="com_tencent_mobileqq_685" />
+		<item drawable="com_qihoo_antivirus_686" />
+		<item drawable="com_bilibili_bilibililive_687" />
 	<!--AutoInjector End-->
 
 </resources>

@@ -591,6 +591,12 @@
 		<item>mark_via_679</item>
 		<item>mark_via_z_680</item>
 		<item>cn_wps_moffice_eng_681</item>
+		<item>com_android_messaging_682</item>
+		<item>com_android_chrome_683</item>
+		<item>com_youku_phone_684</item>
+		<item>com_tencent_mobileqq_685</item>
+		<item>com_qihoo_antivirus_686</item>
+		<item>com_bilibili_bilibililive_687</item>
 	<!--AutoInjector End-->
     </string-array>
 
