@@ -662,6 +662,46 @@
 		<item>com_sumsung_android_email_porvider_750</item>
 		<item>com_samsung_android_game_gamehome_751</item>
 		<item>com_samsung_android_sm_cn_752</item>
+		<item>com_android_vending_753</item>
+		<item>com_samsung_android_globalroaming_754</item>
+		<item>com_samsung_android_globalroaming_755</item>
+		<item>com_samsung_android_app_sreminder_756</item>
+		<item>com_samsung_knox_securefolder_757</item>
+		<item>com_samsung_android_app_notes_758</item>
+		<item>com_samsung_android_contacts1_759</item>
+		<item>com_samsung_android_messaging_760</item>
+		<item>com_sec_android_app_translator_761</item>
+		<item>com_samsung_android_voc_762</item>
+		<item>com_tianxing_android_contentblocker_763</item>
+		<item>com_samsung_smartcalli_764</item>
+		<item>com_sec_android_app_popupcalculator_765</item>
+		<item>com_sec_android_app_shealth_766</item>
+		<item>com_sec_android_automotive_drivelink_767</item>
+		<item>com_samsung_android_contacts2_768</item>
+		<item>com_sec_android_app_sbrowser_769</item>
+		<item>com_sec_android_app_bcocr_770</item>
+		<item>com_samsung_android_app_music_chn_771</item>
+		<item>com_samsung_android_themestore_772</item>
+		<item>com_android_settings_773</item>
+		<item>com_sec_android_app_clockpackage_774</item>
+		<item>com_samsung_android_onlinevideo_775</item>
+		<item>com_sec_android_app_vefull_776</item>
+		<item>com_sec_android_app_voicenote_777</item>
+		<item>com_sec_android_app_fm_778</item>
+		<item>com_samsung_android_app_watchmanager_779</item>
+		<item>com_samsung_android_app_reminder_780</item>
+		<item>tianqi_781</item>
+		<item>com_sec_musicstudio_782</item>
+		<item>com_sec_android_app_myfiles_783</item>
+		<item>com_sec_android_app_ocr4_784</item>
+		<item>com_sec_android_gallery3d_785</item>
+		<item>com_sec_android_app_camera_786</item>
+		<item>com_samsung_android_email_provider_787</item>
+		<item>com_samsung_android_game_gamehome_788</item>
+		<item>com_samsung_voiceserviceplatform_789</item>
+		<item>com_samsung_android_sm_cn_790</item>
+		<item>com_samsung_android_oneconnect_791</item>
+		<item>com_sec_android_app_samsungapps_792</item>
 	<!--AutoInjector End-->
     </string-array>
 
