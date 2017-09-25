@@ -823,6 +823,22 @@
 		<item drawable="com_android_camera_910" />
 		<item drawable="com_android_dialer_911" />
 		<item drawable="com_android_messaging_912" />
+		<item drawable="001_913" />
+		<item drawable="com_android_settings_914" />
+		<item drawable="001_915" />
+		<item drawable="002_916" />
+		<item drawable="003_917" />
+		<item drawable="004_918" />
+		<item drawable="005_919" />
+		<item drawable="006_920" />
+		<item drawable="007_921" />
+		<item drawable="008_922" />
+		<item drawable="009_923" />
+		<item drawable="010_924" />
+		<item drawable="011_925" />
+		<item drawable="012_926" />
+		<item drawable="013_927" />
+		<item drawable="014_928" />
 	<!--AutoInjector End-->
 
 </resources>

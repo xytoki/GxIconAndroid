@@ -822,6 +822,22 @@
 		<item>com_android_camera_910</item>
 		<item>com_android_dialer_911</item>
 		<item>com_android_messaging_912</item>
+		<item>001_913</item>
+		<item>com_android_settings_914</item>
+		<item>001_915</item>
+		<item>002_916</item>
+		<item>003_917</item>
+		<item>004_918</item>
+		<item>005_919</item>
+		<item>006_920</item>
+		<item>007_921</item>
+		<item>008_922</item>
+		<item>009_923</item>
+		<item>010_924</item>
+		<item>011_925</item>
+		<item>012_926</item>
+		<item>013_927</item>
+		<item>014_928</item>
 	<!--AutoInjector End-->
     </string-array>
 
