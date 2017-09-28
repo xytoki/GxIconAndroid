@@ -888,6 +888,16 @@
 		<item drawable="com_tiantian_android_player_video_975" />
 		<item drawable="com_vmall_client_976" />
 		<item drawable="huawei_com_android_manager_977" />
+		<item drawable="com_niksoftware_snapseed_978" />
+		<item drawable="com_tencent_mm_979" />
+		<item drawable="com_caij_emore_980" />
+		<item drawable="com_netease_cloudmusic_981" />
+		<item drawable="com_bilibili_app_blue_982" />
+		<item drawable="com_bilibili_app_blue_983" />
+		<item drawable="com_bilibili_app_blue_984" />
+		<item drawable="com_oneplus_camera_985" />
+		<item drawable="com_oneplus_camera_986" />
+		<item drawable="com_oneplus_camera_987" />
 	<!--AutoInjector End-->
 
 </resources>
