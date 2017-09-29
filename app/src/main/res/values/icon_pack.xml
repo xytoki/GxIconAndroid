@@ -897,6 +897,55 @@
 		<item>com_oneplus_camera_985</item>
 		<item>com_oneplus_camera_986</item>
 		<item>com_oneplus_camera_987</item>
+		<item>net_oneplus_weather_988</item>
+		<item>com_bilibili_app_blue_989</item>
+		<item>com_downloading_main_baiduyundownload_990</item>
+		<item>com_downloading_main_baiduyundownload_991</item>
+		<item>com_taptap_992</item>
+		<item>com_taptap_993</item>
+		<item>com_netease_yanxuan_994</item>
+		<item>com_netease_yanxuan_995</item>
+		<item>com_tencent_tim_996</item>
+		<item>com_tencent_tim_997</item>
+		<item>com_netease_cloudmusic_998</item>
+		<item>com_blink_academy_onetake_999</item>
+		<item>com_mmmono_mono_1000</item>
+		<item>com_tumblr_1001</item>
+		<item>com_zhihu_android_1002</item>
+		<item>com_sspai_cuto_android_1003</item>
+		<item>com_tencent_tmgp_sgame_1004</item>
+		<item>com_coolapk_market_1005</item>
+		<item>com_orekie_search_1006</item>
+		<item>shadowsocksr_1007</item>
+		<item>com_oneplus_calendar_1008</item>
+		<item>com_oneplus_soundrecorder_1009</item>
+		<item>com_oneplus_soundrecorder_1010</item>
+		<item>com_eg_android_alipaygphone_1011</item>
+		<item>eu_chainfire_supersu_1012</item>
+		<item>bilibili_1013</item>
+		<item>bilibili1_1014</item>
+		<item>bilibili2_1015</item>
+		<item>bilibili3_1016</item>
+		<item>camera_1017</item>
+		<item>camera1_1018</item>
+		<item>com_netease_cloudmusic_1019</item>
+		<item>com_netease_cloudmusic1_1020</item>
+		<item>com_netease_yanxuan1_1021</item>
+		<item>com_netease_yanxuan_1022</item>
+		<item>com_tencent_tim_1023</item>
+		<item>com_telegram_1024</item>
+		<item>com_taptap_1025</item>
+		<item>com_taptap1_1026</item>
+		<item>com_downloading_main_baiduyundownload_1027</item>
+		<item>com_downloading_main_baiduyundownload1_1028</item>
+		<item>com_oneplus_soundrecorder_1029</item>
+		<item>com_oneplus_soundrecorder1_1030</item>
+		<item>com_bilibili_app_blue4_1031</item>
+		<item>com_bilibili_app_blue3_1032</item>
+		<item>com_bilibili_app_blue2_1033</item>
+		<item>com_bilibili_app_blue1_1034</item>
+		<item>com_bilibili_app_blue_1035</item>
+		<item>com_niksoftware_snapseed_1036</item>
 	<!--AutoInjector End-->
     </string-array>
 
