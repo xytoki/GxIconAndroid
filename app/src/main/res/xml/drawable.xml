@@ -947,6 +947,25 @@
 		<item drawable="com_bilibili_app_blue1_1034" />
 		<item drawable="com_bilibili_app_blue_1035" />
 		<item drawable="com_niksoftware_snapseed_1036" />
+		<item drawable="com_google_android_googlequicksearchbox_1041" />
+		<item drawable="com_coolapk_market_1042" />
+		<item drawable="com_android_contacts_1043" />
+		<item drawable="com_android_mms_1044" />
+		<item drawable="com_tencent_mobileqq_1045" />
+		<item drawable="com_eg_android_alipaygphone_1046" />
+		<item drawable="com_android_settings_1047" />
+		<item drawable="com_miui_gallery_1048" />
+		<item drawable="com_android_vending_1049" />
+		<item drawable="com_netease_cloudmusic_1050" />
+		<item drawable="com_tencent_mm_1051" />
+		<item drawable="com_psiphon3_1052" />
+		<item drawable="com_quark_browser_1053" />
+		<item drawable="com_one_woodenletter_1054" />
+		<item drawable="tv_danmaku_bili_1055" />
+		<item drawable="com_bilibili_app_blue_1056" />
+		<item drawable="com_sina_weibo_1057" />
+		<item drawable="com_estrongs_android_pop_1058" />
+		<item drawable="mark_via_1059" />
 	<!--AutoInjector End-->
 
 </resources>

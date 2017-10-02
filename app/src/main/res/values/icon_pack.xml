@@ -946,6 +946,25 @@
 		<item>com_bilibili_app_blue1_1034</item>
 		<item>com_bilibili_app_blue_1035</item>
 		<item>com_niksoftware_snapseed_1036</item>
+		<item>com_google_android_googlequicksearchbox_1041</item>
+		<item>com_coolapk_market_1042</item>
+		<item>com_android_contacts_1043</item>
+		<item>com_android_mms_1044</item>
+		<item>com_tencent_mobileqq_1045</item>
+		<item>com_eg_android_alipaygphone_1046</item>
+		<item>com_android_settings_1047</item>
+		<item>com_miui_gallery_1048</item>
+		<item>com_android_vending_1049</item>
+		<item>com_netease_cloudmusic_1050</item>
+		<item>com_tencent_mm_1051</item>
+		<item>com_psiphon3_1052</item>
+		<item>com_quark_browser_1053</item>
+		<item>com_one_woodenletter_1054</item>
+		<item>tv_danmaku_bili_1055</item>
+		<item>com_bilibili_app_blue_1056</item>
+		<item>com_sina_weibo_1057</item>
+		<item>com_estrongs_android_pop_1058</item>
+		<item>mark_via_1059</item>
 	<!--AutoInjector End-->
     </string-array>
 
