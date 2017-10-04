@@ -966,6 +966,31 @@
 		<item drawable="com_sina_weibo_1057" />
 		<item drawable="com_estrongs_android_pop_1058" />
 		<item drawable="mark_via_1059" />
+		<item drawable="com_coolapk_market_1061" />
+		<item drawable="mark_via_1062" />
+		<item drawable="com_android_browser_1063" />
+		<item drawable="com_iudesk_android_photo_editor_1064" />
+		<item drawable="com_tencent_mm_1065" />
+		<item drawable="com_oppo_gallery_1066" />
+		<item drawable="com_andrpid_calendar_1067" />
+		<item drawable="com_coolapk_market_1068" />
+		<item drawable="com_oppo_camera_1069" />
+		<item drawable="com_android_settings_1070" />
+		<item drawable="com_tencent_mobileqq_1071" />
+		<item drawable="com_aide_ui_1072" />
+		<item drawable="com_android_sms_1073" />
+		<item drawable="com_android_incallui_1074" />
+		<item drawable="com_oppo_contacts_1075" />
+		<item drawable="com_android_browser_1076" />
+		<item drawable="com_android_browser_1077" />
+		<item drawable="com_nearme_themespace_1078" />
+		<item drawable="com_android_incallui_1079" />
+		<item drawable="com_android_browser_1080" />
+		<item drawable="com_coloros_gallery3d_1081" />
+		<item drawable="com_android_contacts_1082" />
+		<item drawable="com_android_calendar_1083" />
+		<item drawable="com_android_mms_1084" />
+		<item drawable="com_superevilmegacorp_game_1085" />
 	<!--AutoInjector End-->
 
 </resources>
