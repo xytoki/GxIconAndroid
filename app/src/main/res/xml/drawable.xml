@@ -1124,6 +1124,20 @@
 		<item drawable="com_zhiguan_m9ikandian_1217" />
 		<item drawable="com_zhongduomei_rrmj_society_1218" />
 		<item drawable="com_tencent_zb_1219" />
+		<item drawable="com_android_calculator2_1220" />
+		<item drawable="com_android_contacts_1221" />
+		<item drawable="com_android_dialer_1222" />
+		<item drawable="com_android_gallery3d_1223" />
+		<item drawable="com_android_messaging_1224" />
+		<item drawable="com_android_settings_1225" />
+		<item drawable="com_vipercn_mokee_viper4android_v2_1226" />
+		<item drawable="org_cyanogenmod_snap_1227" />
+		<item drawable="com_android_deskclock_1228" />
+		<item drawable="com_android_calendar_1229" />
+		<item drawable="com_dv_adm_pay_1230" />
+		<item drawable="com_estrongs_android_pop_1231" />
+		<item drawable="com_umowang_fgo_1232" />
+		<item drawable="com_joe_holi_1233" />
 	<!--AutoInjector End-->
 
 </resources>
