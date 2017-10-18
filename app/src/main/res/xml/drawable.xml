@@ -1414,6 +1414,14 @@
 		<item drawable="com_letv_android_client_1507" />
 		<item drawable="com_asus_aihome_1508" />
 		<item drawable="com_diershoubing_erbing_1509" />
+		<item drawable="com_kingkr_kupuilf_1510" />
+		<item drawable="com_speedsoftware_rootexplorer_1511" />
+		<item drawable="bin_mt_plus_1512" />
+		<item drawable="com_gxicon_pixelstyle_1513" />
+		<item drawable="com_eg_android_alipaygphone_1514" />
+		<item drawable="com_imbastar_c5game_1515" />
+		<item drawable="com_aurora_advance_settings_1516" />
+		<item drawable="com_fancywing_s3_1517" />
 	<!--AutoInjector End-->
 
 </resources>
