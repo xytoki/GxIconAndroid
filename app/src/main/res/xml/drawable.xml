@@ -1422,6 +1422,9 @@
 		<item drawable="com_imbastar_c5game_1515" />
 		<item drawable="com_aurora_advance_settings_1516" />
 		<item drawable="com_fancywing_s3_1517" />
+		<item drawable="io_liuliu_game_1518" />
+		<item drawable="com_xwtec_sd_mobileclient_1519" />
+		<item drawable="com_android_clock_sd_1520" />
 	<!--AutoInjector End-->
 
 </resources>
