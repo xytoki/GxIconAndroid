@@ -1555,6 +1555,8 @@
 		<item drawable="com_android_soundrecorder_1648" />
 		<item drawable="com_snda_wifilocating_1649" />
 		<item drawable="com_xiaomi_router_1650" />
+		<item drawable="com_ss_android_ugc_aweme_1651" />
+		<item drawable="com_bilibili_fatego_1652" />
 	<!--AutoInjector End-->
 
 </resources>
