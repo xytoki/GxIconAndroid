@@ -1612,6 +1612,38 @@
 		<item drawable="video_vue_android_1705" />
 		<item drawable="de_robv_android_xposed_installer_1706" />
 		<item drawable="com_gxicon_sailingair_1707" />
+		<item drawable="com_niksoftware_snapseed_1708" />
+		<item drawable="com_android_dialer_1709" />
+		<item drawable="com_maxxipoint_android_1710" />
+		<item drawable="com_android_vending_1711" />
+		<item drawable="com_android_gallery3d_1712" />
+		<item drawable="com_android_deskclock_1713" />
+		<item drawable="com_android_documentsui_1714" />
+		<item drawable="com_android_settings_1715" />
+		<item drawable="com_oasisfeng_greenify_1716" />
+		<item drawable="com_coolapk_market_1717" />
+		<item drawable="com_tencent_gamehelper_smoba_1718" />
+		<item drawable="com_netease_uu_1719" />
+		<item drawable="com_eg_android_alipaygphone_1720" />
+		<item drawable="com_tencent_mobileqq_1721" />
+		<item drawable="com_android_calendar_1722" />
+		<item drawable="com_android_contacts_1723" />
+		<item drawable="com_android_chrome_1724" />
+		<item drawable="com_baidu_netdisk_1725" />
+		<item drawable="com_downloading_main_baiduyundownload_1726" />
+		<item drawable="com_baidu_tieba_1727" />
+		<item drawable="de_robv_android_xposed_installer_1728" />
+		<item drawable="com_android_calculator2_1729" />
+		<item drawable="com_tencent_kihan_1730" />
+		<item drawable="mark_via_1731" />
+		<item drawable="com_soft_blued_1732" />
+		<item drawable="com_android_messaging_1733" />
+		<item drawable="com_estrongs_android_pop_1734" />
+		<item drawable="com_netease_onmyoji_bili_1735" />
+		<item drawable="org_cyanogenmod_snap_1736" />
+		<item drawable="com_niksoftware_snapseed_1737" />
+		<item drawable="com_tencent_tmgp_sgame_1738" />
+		<item drawable="com_netease_yyszs_1739" />
 	<!--AutoInjector End-->
 
 </resources>
