@@ -1643,6 +1643,35 @@
 		<item>com_niksoftware_snapseed_1737</item>
 		<item>com_tencent_tmgp_sgame_1738</item>
 		<item>com_netease_yyszs_1739</item>
+		<item>com_xiaomi_vipaccount_1740</item>
+		<item>com_miui_securitycenter_1741</item>
+		<item>com_miui_notes_1742</item>
+		<item>com_android_contacts_1743</item>
+		<item>com_android_mms_1744</item>
+		<item>com_miui_calculator_1745</item>
+		<item>com_android_contacts_1746</item>
+		<item>com_android_browser_1747</item>
+		<item>com_android_soundrecorder_1748</item>
+		<item>com_miui_screenrecorder_1749</item>
+		<item>com_mipay_wallet_1750</item>
+		<item>com_miui_virtualsim_1751</item>
+		<item>com_android_calendar_1752</item>
+		<item>com_android_settings_1753</item>
+		<item>com_android_deskclock_1754</item>
+		<item>com_miui_video_1755</item>
+		<item>com_miui_weather2_1756</item>
+		<item>com_miui_gallery_1757</item>
+		<item>com_android_fileexplorer_1758</item>
+		<item>com_android_providers_downloads_ui_1759</item>
+		<item>com_android_camera_1760</item>
+		<item>com_miui_player_1761</item>
+		<item>com_xiaomi_market_1762</item>
+		<item>com_miui_bugreport_1763</item>
+		<item>com_android_email_1764</item>
+		<item>com_xiaomi_gamecenter_1765</item>
+		<item>com_miui_voiceassist_1766</item>
+		<item>com_miui_compass_1767</item>
+		<item>com_android_thememanager_1768</item>
 	<!--AutoInjector End-->
     </string-array>
 

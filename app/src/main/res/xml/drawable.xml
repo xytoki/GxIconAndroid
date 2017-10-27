@@ -1644,6 +1644,35 @@
 		<item drawable="com_niksoftware_snapseed_1737" />
 		<item drawable="com_tencent_tmgp_sgame_1738" />
 		<item drawable="com_netease_yyszs_1739" />
+		<item drawable="com_xiaomi_vipaccount_1740" />
+		<item drawable="com_miui_securitycenter_1741" />
+		<item drawable="com_miui_notes_1742" />
+		<item drawable="com_android_contacts_1743" />
+		<item drawable="com_android_mms_1744" />
+		<item drawable="com_miui_calculator_1745" />
+		<item drawable="com_android_contacts_1746" />
+		<item drawable="com_android_browser_1747" />
+		<item drawable="com_android_soundrecorder_1748" />
+		<item drawable="com_miui_screenrecorder_1749" />
+		<item drawable="com_mipay_wallet_1750" />
+		<item drawable="com_miui_virtualsim_1751" />
+		<item drawable="com_android_calendar_1752" />
+		<item drawable="com_android_settings_1753" />
+		<item drawable="com_android_deskclock_1754" />
+		<item drawable="com_miui_video_1755" />
+		<item drawable="com_miui_weather2_1756" />
+		<item drawable="com_miui_gallery_1757" />
+		<item drawable="com_android_fileexplorer_1758" />
+		<item drawable="com_android_providers_downloads_ui_1759" />
+		<item drawable="com_android_camera_1760" />
+		<item drawable="com_miui_player_1761" />
+		<item drawable="com_xiaomi_market_1762" />
+		<item drawable="com_miui_bugreport_1763" />
+		<item drawable="com_android_email_1764" />
+		<item drawable="com_xiaomi_gamecenter_1765" />
+		<item drawable="com_miui_voiceassist_1766" />
+		<item drawable="com_miui_compass_1767" />
+		<item drawable="com_android_thememanager_1768" />
 	<!--AutoInjector End-->
 
 </resources>
