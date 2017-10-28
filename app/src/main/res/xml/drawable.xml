@@ -1673,6 +1673,18 @@
 		<item drawable="com_miui_voiceassist_1766" />
 		<item drawable="com_miui_compass_1767" />
 		<item drawable="com_android_thememanager_1768" />
+		<item drawable="com_taptap_1769" />
+		<item drawable="com_icoolme_android_weather_1770" />
+		<item drawable="sina_mobile_tianqitong_1771" />
+		<item drawable="wangdaye_com_geometricweather_1772" />
+		<item drawable="com_qihoo_mm_weather_1773" />
+		<item drawable="com_cmcm_weather_1774" />
+		<item drawable="com_moji_mjweather_1775" />
+		<item drawable="hanjie_app_pureweather_1776" />
+		<item drawable="com_meizu_flyme_weather_1777" />
+		<item drawable="com_mlog_weather_1778" />
+		<item drawable="com_metek_zqweather_1779" />
+		<item drawable="mobi_infolife_ezweather_1780" />
 	<!--AutoInjector End-->
 
 </resources>

@@ -1672,6 +1672,18 @@
 		<item>com_miui_voiceassist_1766</item>
 		<item>com_miui_compass_1767</item>
 		<item>com_android_thememanager_1768</item>
+		<item>com_taptap_1769</item>
+		<item>com_icoolme_android_weather_1770</item>
+		<item>sina_mobile_tianqitong_1771</item>
+		<item>wangdaye_com_geometricweather_1772</item>
+		<item>com_qihoo_mm_weather_1773</item>
+		<item>com_cmcm_weather_1774</item>
+		<item>com_moji_mjweather_1775</item>
+		<item>hanjie_app_pureweather_1776</item>
+		<item>com_meizu_flyme_weather_1777</item>
+		<item>com_mlog_weather_1778</item>
+		<item>com_metek_zqweather_1779</item>
+		<item>mobi_infolife_ezweather_1780</item>
 	<!--AutoInjector End-->
     </string-array>
 
