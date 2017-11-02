@@ -1810,6 +1810,9 @@
 		<item drawable="com_dv_adm_pay_1903" />
 		<item drawable="com_cyjh_mobileanjian_1904" />
 		<item drawable="com_oneplus_market_1905" />
+		<item drawable="com_android_sms_1906" />
+		<item drawable="com_android_phone_1907" />
+		<item drawable="com_android_dialer_1908" />
 	<!--AutoInjector End-->
 
 </resources>

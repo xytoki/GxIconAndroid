@@ -1809,6 +1809,9 @@
 		<item>com_dv_adm_pay_1903</item>
 		<item>com_cyjh_mobileanjian_1904</item>
 		<item>com_oneplus_market_1905</item>
+		<item>com_android_sms_1906</item>
+		<item>com_android_phone_1907</item>
+		<item>com_android_dialer_1908</item>
 	<!--AutoInjector End-->
     </string-array>
 
