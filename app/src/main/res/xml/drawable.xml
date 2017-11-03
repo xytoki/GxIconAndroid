@@ -1813,6 +1813,21 @@
 		<item drawable="com_android_sms_1906" />
 		<item drawable="com_android_phone_1907" />
 		<item drawable="com_android_dialer_1908" />
+		<item drawable="com_dv_adm_pay_1909" />
+		<item drawable="com_lerist_go_hosts_1910" />
+		<item drawable="com_tencent_mobileqq_1911" />
+		<item drawable="de_robv_android_xposed_installer_1912" />
+		<item drawable="com_cmcc_jzfpb_1913" />
+		<item drawable="com_google_android_googlecamera_1914" />
+		<item drawable="com_pingan_lifeinsurance_1915" />
+		<item drawable="com_tencent_news_1916" />
+		<item drawable="com_android_browser_1917" />
+		<item drawable="com_oneplus_bbs_1918" />
+		<item drawable="net_oneplus_weather_1919" />
+		<item drawable="com_youku_phone_1920" />
+		<item drawable="com_coolapk_market_1921" />
+		<item drawable="com_coolapk_market_1922" />
+		<item drawable="com_coolapk_market_1923" />
 	<!--AutoInjector End-->
 
 </resources>

@@ -1812,6 +1812,21 @@
 		<item>com_android_sms_1906</item>
 		<item>com_android_phone_1907</item>
 		<item>com_android_dialer_1908</item>
+		<item>com_dv_adm_pay_1909</item>
+		<item>com_lerist_go_hosts_1910</item>
+		<item>com_tencent_mobileqq_1911</item>
+		<item>de_robv_android_xposed_installer_1912</item>
+		<item>com_cmcc_jzfpb_1913</item>
+		<item>com_google_android_googlecamera_1914</item>
+		<item>com_pingan_lifeinsurance_1915</item>
+		<item>com_tencent_news_1916</item>
+		<item>com_android_browser_1917</item>
+		<item>com_oneplus_bbs_1918</item>
+		<item>net_oneplus_weather_1919</item>
+		<item>com_youku_phone_1920</item>
+		<item>com_coolapk_market_1921</item>
+		<item>com_coolapk_market_1922</item>
+		<item>com_coolapk_market_1923</item>
 	<!--AutoInjector End-->
     </string-array>
 
