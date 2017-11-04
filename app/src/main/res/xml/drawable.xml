@@ -1828,6 +1828,42 @@
 		<item drawable="com_coolapk_market_1921" />
 		<item drawable="com_coolapk_market_1922" />
 		<item drawable="com_coolapk_market_1923" />
+		<item drawable="com_android_chrome_1924" />
+		<item drawable="com_qzone_1925" />
+		<item drawable="com_tencent_qqmusic_1926" />
+		<item drawable="com_tencent_tim_1927" />
+		<item drawable="mark_via_1928" />
+		<item drawable="com_snda_wifilocating_1929" />
+		<item drawable="cn_wps_moffice_eng_1930" />
+		<item drawable="com_myzaker_zaker_phone_1931" />
+		<item drawable="com_antutu_abenchmark_1932" />
+		<item drawable="com_antutu_benchmark_full_1933" />
+		<item drawable="com_baidu_input_1934" />
+		<item drawable="me_ele_1935" />
+		<item drawable="com_ruguoapp_jike_1936" />
+		<item drawable="com_ss_android_article_lite_1937" />
+		<item drawable="com_jd_jrapp_1938" />
+		<item drawable="com_wangyin_payment_1939" />
+		<item drawable="com_kugou_android_1940" />
+		<item drawable="com_quark_browser_1941" />
+		<item drawable="com_smile_gifmaker_1942" />
+		<item drawable="com_oasisfeng_greenify_1943" />
+		<item drawable="com_mt_mtxx_mtxx_1944" />
+		<item drawable="com_moji_mjweather_1945" />
+		<item drawable="com_qunar_1946" />
+		<item drawable="com_baidu_searchbox_1947" />
+		<item drawable="com_sohu_inputmethod_sogou_1948" />
+		<item drawable="com_sohu_sohuvideo_1949" />
+		<item drawable="com_tencent_qqlive_1950" />
+		<item drawable="com_tmall_wireless_1951" />
+		<item drawable="com_netease_newsreader_activity_1952" />
+		<item drawable="com_achievo_vipshop_1953" />
+		<item drawable="com_ss_android_article_video_1954" />
+		<item drawable="com_xiachufang_1955" />
+		<item drawable="com_taobao_idlefish_1956" />
+		<item drawable="com_xunlei_downloadprovider_1957" />
+		<item drawable="com_one_woodenletter_1958" />
+		<item drawable="com_zhihu_android_1959" />
 	<!--AutoInjector End-->
 
 </resources>
