@@ -1866,6 +1866,7 @@
 		<item drawable="com_zhihu_android_1959" />
 		<item drawable="com_android_camera_1960" />
 		<item drawable="com_android_camera_1961" />
+		<item drawable="com_android_mms_1962" />
 	<!--AutoInjector End-->
 
 </resources>
