@@ -1867,6 +1867,16 @@
 		<item drawable="com_android_camera_1960" />
 		<item drawable="com_android_camera_1961" />
 		<item drawable="com_android_mms_1962" />
+		<item drawable="com_bocharov_xposed_fsbi_1963" />
+		<item drawable="com_downloading_main_baiduyundownload_1964" />
+		<item drawable="com_keramidas_titaniumbackup_1965" />
+		<item drawable="com_flarejune_perfectcolorbar_1966" />
+		<item drawable="projekt_substratum_1967" />
+		<item drawable="cn_ninegame_gamemanager_1968" />
+		<item drawable="com_android_contacts_1969" />
+		<item drawable="com_flijo_montage_iconpack_1970" />
+		<item drawable="com_gxicon_montage_1971" />
+		<item drawable="com_meelive_ingkee_1972" />
 	<!--AutoInjector End-->
 
 </resources>
