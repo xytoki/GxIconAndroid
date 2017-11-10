@@ -1898,6 +1898,16 @@
 		<item>com_sand_airdroid_1992</item>
 		<item>com_lenovo_anyshare_1993</item>
 		<item>eu_chainfire_supersu_1994</item>
+		<item>tv_danmaku_bili_1995</item>
+		<item>tv_danmaku_bili_1996</item>
+		<item>com_google_android_googlequicksearchbox_voicesearchactivity_1997</item>
+		<item>com_google_android_googlequicksearchbox_searchactivity_1998</item>
+		<item>com_baidu_netdisk_1999</item>
+		<item>com_baidu_tieba_2000</item>
+		<item>com_android_development_2002</item>
+		<item>com_tencent_mm_2003</item>
+		<item>com_bilibili_app_blue_2004</item>
+		<item>com_bilibili_app_blue_2005</item>
 	<!--AutoInjector End-->
     </string-array>
 

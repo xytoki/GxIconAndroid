@@ -1899,6 +1899,16 @@
 		<item drawable="com_sand_airdroid_1992" />
 		<item drawable="com_lenovo_anyshare_1993" />
 		<item drawable="eu_chainfire_supersu_1994" />
+		<item drawable="tv_danmaku_bili_1995" />
+		<item drawable="tv_danmaku_bili_1996" />
+		<item drawable="com_google_android_googlequicksearchbox_voicesearchactivity_1997" />
+		<item drawable="com_google_android_googlequicksearchbox_searchactivity_1998" />
+		<item drawable="com_baidu_netdisk_1999" />
+		<item drawable="com_baidu_tieba_2000" />
+		<item drawable="com_android_development_2002" />
+		<item drawable="com_tencent_mm_2003" />
+		<item drawable="com_bilibili_app_blue_2004" />
+		<item drawable="com_bilibili_app_blue_2005" />
 	<!--AutoInjector End-->
 
 </resources>
