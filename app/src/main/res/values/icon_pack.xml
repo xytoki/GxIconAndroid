@@ -1908,6 +1908,41 @@
 		<item>com_tencent_mm_2003</item>
 		<item>com_bilibili_app_blue_2004</item>
 		<item>com_bilibili_app_blue_2005</item>
+		<item>com_atypicalgames_radiationisland_2006</item>
+		<item>com_rockvr_moonplayer_gvr_2007</item>
+		<item>cn_coupon_mac_2008</item>
+		<item>com_adsafe_2009</item>
+		<item>com_baidu_baidutranslate_2010</item>
+		<item>com_coolapk_market_2011</item>
+		<item>com_android_chrome_2012</item>
+		<item>com_chrome_beta_2013</item>
+		<item>com_chrome_dev_2014</item>
+		<item>ctrip_android_view_2015</item>
+		<item>com_scliang_bqcalendar_2017</item>
+		<item>org_mozilla_firefox_beta_2018</item>
+		<item>org_mozilla_firefox_2019</item>
+		<item>com_android_providers_downloads_ui_2020</item>
+		<item>com_valvesoftware_android_s_community_2021</item>
+		<item>com_qihoo_permmgr_2022</item>
+		<item>com_cmcm_locker_2023</item>
+		<item>com_shazam_android_2024</item>
+		<item>com_example_bwappdoor_2025</item>
+		<item>com_google_android_apps_adm_2026</item>
+		<item>com_tencent_tmgp_supercell_clashofclans_2027</item>
+		<item>com_hengye_share_2028</item>
+		<item>com_oneplus_gallery_2029</item>
+		<item>com_google_android_googlecamera_2030</item>
+		<item>rikka_appops_2031</item>
+		<item>com_cleanmaster_security_2032</item>
+		<item>com_ijinshan_browser_2033</item>
+		<item>com_android_stk_2034</item>
+		<item>com_didi_echo_2035</item>
+		<item>com_estrongs_android_taskmanager_2036</item>
+		<item>com_cleanmaster_mguard_cn_2037</item>
+		<item>com_estrongs_android_pop_2038</item>
+		<item>com_google_android_wearable_app_2039</item>
+		<item>com_kingrealer_expressquery_2040</item>
+		<item>de_robv_android_xposed_insaller_2041</item>
 	<!--AutoInjector End-->
     </string-array>
 
