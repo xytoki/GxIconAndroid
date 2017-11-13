@@ -2044,6 +2044,9 @@
 		<item drawable="me_gfuil_bmap_2146" />
 		<item drawable="com_baidu_image_2147" />
 		<item drawable="com_microsoft_launcher_2148" />
+		<item drawable="com_phicomm_cloud_soho_router_2149" />
+		<item drawable="com_wygj_damai_2150" />
+		<item drawable="com_cmcc_wificity_2151" />
 	<!--AutoInjector End-->
 
 </resources>
