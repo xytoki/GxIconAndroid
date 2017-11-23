@@ -2051,6 +2051,11 @@
 		<item drawable="cn_silence795_kuqimovies_2153" />
 		<item drawable="com_youku_youkuvip_2154" />
 		<item drawable="cn_gamecat_miyugame_shouyoucun_2155" />
+		<item drawable="com_downloading_main_baiduyundownload_2156" />
+		<item drawable="com_tencent_tim_2157" />
+		<item drawable="com_tencent_mobileqq_2158" />
+		<item drawable="com_orekie_search_2159" />
+		<item drawable="com_flijo_sftmi_itf_iconpack_2160" />
 	<!--AutoInjector End-->
 
 </resources>
