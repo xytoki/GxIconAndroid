@@ -2059,6 +2059,21 @@
 		<item drawable="com_e123_gxicon_2161" />
 		<item drawable="com_orekie_search_2162" />
 		<item drawable="com_flijo_sftmi_itf_iconpack_2163" />
+		<item drawable="com_quark_browser_2164" />
+		<item drawable="com_android_settings_2165" />
+		<item drawable="com_tencent_mobileqq_2166" />
+		<item drawable="com_tencent_mm_2167" />
+		<item drawable="com_android_camera_2168" />
+		<item drawable="com_imlk_blackandwhite_2169" />
+		<item drawable="com_google_android_googlequicksearchbox_2170" />
+		<item drawable="com_android_contacts_2171" />
+		<item drawable="com_android_vending_2172" />
+		<item drawable="com_github_shadowsocks_2173" />
+		<item drawable="com_coolapk_market_2174" />
+		<item drawable="tv_danmaku_bili_2175" />
+		<item drawable="com_netease_cloudmusic_2176" />
+		<item drawable="com_baidu_netdisk_2177" />
+		<item drawable="com_android_thememanager_2178" />
 	<!--AutoInjector End-->
 
 </resources>
