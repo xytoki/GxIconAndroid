@@ -2074,6 +2074,9 @@
 		<item drawable="com_netease_cloudmusic_2176" />
 		<item drawable="com_baidu_netdisk_2177" />
 		<item drawable="com_android_thememanager_2178" />
+		<item drawable="com_baidu_netdisk_2179" />
+		<item drawable="com_android_contacts_2180" />
+		<item drawable="com_zhihu_android_2181" />
 	<!--AutoInjector End-->
 
 </resources>
