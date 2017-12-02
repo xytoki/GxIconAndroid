@@ -2078,6 +2078,12 @@
 		<item drawable="com_android_contacts_2180" />
 		<item drawable="com_zhihu_android_2181" />
 		<item drawable="com_baidu_netdisk_2182" />
+		<item drawable="com_apkpure_aegon_2183" />
+		<item drawable="com_richinfo_thinkmail_2184" />
+		<item drawable="com_xda_labs_play_2185" />
+		<item drawable="com_magnets_toolbox_2186" />
+		<item drawable="parim_net_mobile_chinamobile_2187" />
+		<item drawable="com_mokee_aegis_2188" />
 	<!--AutoInjector End-->
 
 </resources>
