@@ -3093,6 +3093,10 @@
 		<item drawable="com_tencent_mm_3195" />
 		<item drawable="projekt_substratum_3196" />
 		<item drawable="om_teslacoilsw_launcher_3197" />
+		<item drawable="com_tencent_cldts_3198" />
+		<item drawable="com_vmall_client_3199" />
+		<item drawable="com_andreader_prein_3200" />
+		<item drawable="com_xiaomi_shop_3201" />
 	<!--AutoInjector End-->
 
 </resources>
