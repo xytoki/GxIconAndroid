@@ -3097,6 +3097,7 @@
 		<item drawable="com_vmall_client_3199" />
 		<item drawable="com_andreader_prein_3200" />
 		<item drawable="com_xiaomi_shop_3201" />
+		<item drawable="com_google_android_inputmethod_pinyin_3203" />
 	<!--AutoInjector End-->
 
 </resources>
