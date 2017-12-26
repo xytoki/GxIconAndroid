@@ -3098,6 +3098,11 @@
 		<item drawable="com_andreader_prein_3200" />
 		<item drawable="com_xiaomi_shop_3201" />
 		<item drawable="com_google_android_inputmethod_pinyin_3203" />
+		<item drawable="com_com2us_inotia4_normal_freefull_google_global_android_common_3204" />
+		<item drawable="com_sunnyisland_dotahero_btwan_3205" />
+		<item drawable="com_ghost_xiaokanba_3206" />
+		<item drawable="air_tv_douyu_android_3207" />
+		<item drawable="fm_xiami_main_3208" />
 	<!--AutoInjector End-->
 
 </resources>
