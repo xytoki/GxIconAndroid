@@ -3103,6 +3103,23 @@
 		<item drawable="com_ghost_xiaokanba_3206" />
 		<item drawable="air_tv_douyu_android_3207" />
 		<item drawable="fm_xiami_main_3208" />
+		<item drawable="com_suning_mobile_ebuy_3209" />
+		<item drawable="tv_acfundanmaku_video_3211" />
+		<item drawable="com_baidu_input_3212" />
+		<item drawable="com_android_chrome_3213" />
+		<item drawable="com_baidu_netdisk_3214" />
+		<item drawable="com_htc_camera2_3215" />
+		<item drawable="com_android_phone_3216" />
+		<item drawable="video_player_videoplayer_3217" />
+		<item drawable="com_google_android_contacts_3218" />
+		<item drawable="com_google_android_deskclock_3219" />
+		<item drawable="com_google_android_apps_wallpaper_3220" />
+		<item drawable="com_google_android_calendar_3221" />
+		<item drawable="com_google_android_dialer_3222" />
+		<item drawable="com_htc_soundrecorder_3223" />
+		<item drawable="com_google_android_apps_docs_3224" />
+		<item drawable="com_google_android_apps_messaging_3225" />
+		<item drawable="com_google_android_apps_photos_3226" />
 	<!--AutoInjector End-->
 
 </resources>
