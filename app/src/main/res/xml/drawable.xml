@@ -3180,6 +3180,13 @@
 		<item drawable="com_zzzmode_appopsx_3284" />
 		<item drawable="mark_via_gp_3286" />
 		<item drawable="com_mobileticket_3288" />
+		<item drawable="com_google_android_dialer_3291" />
+		<item drawable="com_google_android_contacts_3292" />
+		<item drawable="com_google_android_apps_messaging_3293" />
+		<item drawable="com_google_android_gm_3294" />
+		<item drawable="com_mxtech_videoplayer_pro_3295" />
+		<item drawable="com_hz_lingling_ui_3297" />
+		<item drawable="com_outfit7_mytalkingtomfree_3298" />
 	<!--AutoInjector End-->
 
 </resources>
