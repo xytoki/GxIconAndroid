@@ -3515,6 +3515,54 @@
 		<item>om_teslacoilsw_launcher_3626</item>
 		<item>tc_everphoto_3627</item>
 		<item>tv_danmaku_bili_3628</item>
+		<item>com_android_playstore_3629</item>
+		<item>advanced_speed_booster_3630</item>
+		<item>com_android_bluetooth_3631</item>
+		<item>com_android_chrome_3632</item>
+		<item>com_android_nfc_3633</item>
+		<item>com_android_providers_downloads_3634</item>
+		<item>com_android_providers_telephony_3635</item>
+		<item>com_android_sdm_plugins_connmo_3636</item>
+		<item>com_android_settings_3637</item>
+		<item>com_android_vending_3638</item>
+		<item>com_digibites_accubattery_3639</item>
+		<item>com_dropbox_android_3640</item>
+		<item>com_flarejune_perfectcolorbar_3641</item>
+		<item>com_ghisler_android_totalcommander_3642</item>
+		<item>com_github_shadowsocks_3643</item>
+		<item>com_google_android_apps_books_3644</item>
+		<item>com_google_android_apps_cloudprint_3645</item>
+		<item>com_google_android_apps_docs_3646</item>
+		<item>com_google_android_apps_gcs_3647</item>
+		<item>com_google_android_apps_maps_3648</item>
+		<item>com_google_android_apps_messaging_3649</item>
+		<item>com_google_android_apps_photos_3650</item>
+		<item>com_google_android_apps_shopping_express_3651</item>
+		<item>com_google_android_apps_translate_3652</item>
+		<item>com_google_android_apps_walletnfcrel_3653</item>
+		<item>com_google_android_calculator_3654</item>
+		<item>com_google_android_calendar_3655</item>
+		<item>com_google_android_contacts_3656</item>
+		<item>com_google_android_deskclock_3657</item>
+		<item>com_google_android_gm_exchange_3658</item>
+		<item>com_google_android_gm_3659</item>
+		<item>com_google_android_googlecamera_3660</item>
+		<item>com_google_android_googlequicksearchbox_3661</item>
+		<item>com_google_android_inputmethod_pinyin_3662</item>
+		<item>com_google_android_keep_3663</item>
+		<item>com_google_android_music_3664</item>
+		<item>com_google_android_play_games_3665</item>
+		<item>com_google_android_talk_3666</item>
+		<item>com_google_android_youtube_3667</item>
+		<item>com_ichi2_anki_3668</item>
+		<item>com_kabouzeid_gramophone_3669</item>
+		<item>com_niksoftware_snapseed_3670</item>
+		<item>com_orekie_search_3671</item>
+		<item>com_teslacoilsw_launcher_3672</item>
+		<item>com_teslacoilsw_notifier_3673</item>
+		<item>de_robv_android_xposed_installer_3674</item>
+		<item>eu_thedarken_sdm_unlocker_3675</item>
+		<item>net_dinglisch_android_taskerm_3676</item>
 	<!--AutoInjector End-->
     </string-array>
 
