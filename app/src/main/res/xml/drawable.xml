@@ -3853,6 +3853,10 @@
 		<item drawable="io_va_exposed_3965" />
 		<item drawable="pro_com_lantern_3966" />
 		<item drawable="tv_danmaku_bili_3967" />
+		<item drawable="tv_danmaku_bilixl_3968" />
+		<item drawable="com_tencent_mmm_3969" />
+		<item drawable="com_eg_android_alipaygphoneq_3970" />
+		<item drawable="cn_nubia_myfile_3971" />
 	<!--AutoInjector End-->
 
 </resources>
