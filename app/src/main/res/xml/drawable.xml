@@ -3857,6 +3857,10 @@
 		<item drawable="com_tencent_mmm_3969" />
 		<item drawable="com_eg_android_alipaygphoneq_3970" />
 		<item drawable="cn_nubia_myfile_3971" />
+		<item drawable="com_luojilab_player_3972" />
+		<item drawable="com_dushe_movie_3973" />
+		<item drawable="com_weico_international_3974" />
+		<item drawable="com_sina_weibolite_3975" />
 	<!--AutoInjector End-->
 
 </resources>
