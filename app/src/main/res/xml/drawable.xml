@@ -4230,6 +4230,24 @@
 		<item drawable="com_jd_jxj_4344" />
 		<item drawable="com_autonavi_minimap_4345" />
 		<item drawable="com_android_vending_4346" />
+		<item drawable="com_android_settings_4347" />
+		<item drawable="com_android_settings_4348" />
+		<item drawable="com_catchingnow_icebox_4349" />
+		<item drawable="com_spider_film_4350" />
+		<item drawable="com_tencent_tim_4351" />
+		<item drawable="com_baidu_lbs_waimai_4352" />
+		<item drawable="com_yuanwofei_cardemulator_4353" />
+		<item drawable="com_unicom_wopay_4354" />
+		<item drawable="com_gxicon_pc_4355" />
+		<item drawable="com_gxicon_pc1_4356" />
+		<item drawable="com_android_settings_settings_4357" />
+		<item drawable="com_android_settings_4358" />
+		<item drawable="com_nowcasting_activity_4359" />
+		<item drawable="com_android_settings_4360" />
+		<item drawable="xyz_paphonb_systemuituner_4361" />
+		<item drawable="net_dinglisch_android_taskerm_4362" />
+		<item drawable="com_baicizhan_dict_4363" />
+		<item drawable="it_onecalculator_4364" />
 	<!--AutoInjector End-->
 
 </resources>
