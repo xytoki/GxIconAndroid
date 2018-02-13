@@ -9,8 +9,8 @@ android {
         applicationId "com.e123.gxicon"
         minSdkVersion Integer.parseInt(project.MIN_SDK_VERSION)
         targetSdkVersion Integer.parseInt(project.TARGET_SDK_VERSION)
-        /*AutoVersionCode Start*/versionCode 1802121210/*AutoVersionCode End*/
-        /*AutoVersionName Start*/versionName "2018.02.12.12.nightly"/*AutoVersionName End*/
+        /*AutoVersionCode Start*/versionCode 1802131210/*AutoVersionCode End*/
+        /*AutoVersionName Start*/versionName "2018.02.13.12.nightly"/*AutoVersionName End*/
 
         resConfigs "en", "zh_cn"
     }
