@@ -4253,6 +4253,20 @@
 		<item drawable="com_myzaker_zaker_phone_4367" />
 		<item drawable="de_robv_android_xposed_installer_4368" />
 		<item drawable="net_oneplus_weather_4369" />
+		<item drawable="com_google_android_apps_photos_4370" />
+		<item drawable="com_orekie_search_4371" />
+		<item drawable="cn_imrhj_wechatjump_4372" />
+		<item drawable="com_speedsoftware_rootexplorer_4373" />
+		<item drawable="hanjie_app_pureweather_4374" />
+		<item drawable="com_sand_airdroid_4375" />
+		<item drawable="com_eg_android_alipaygphone_4376" />
+		<item drawable="com_apkpure_aegon_4377" />
+		<item drawable="com_baidu_netdisk_4378" />
+		<item drawable="com_android_calculator2_4379" />
+		<item drawable="com_google_android_camera_4380" />
+		<item drawable="com_google_earth_4381" />
+		<item drawable="com_sec_android_app_clockpackage_4382" />
+		<item drawable="com_tencent_mn_4384" />
 	<!--AutoInjector End-->
 
 </resources>
