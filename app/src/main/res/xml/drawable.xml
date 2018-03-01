@@ -6118,6 +6118,13 @@
 		<item drawable="com_zhihu_android_6066" />
 		<item drawable="com_qima_mars_6067" />
 		<item drawable="cn_bevol_p_6068" />
+		<item drawable="com_nianticproject_ingress_6069" />
+		<item drawable="net_oneplus_weather_6070" />
+		<item drawable="jp_co_hit_point_tabikaeru_elm_6071" />
+		<item drawable="tech_evlsoc_captivemgr_6072" />
+		<item drawable="com_xiachufang_6073" />
+		<item drawable="com_uzero_baimiao_6074" />
+		<item drawable="com_simplecity_amp_pro_6075" />
 	<!--AutoInjector End-->
 
 </resources>
