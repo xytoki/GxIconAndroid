@@ -6143,6 +6143,15 @@
 		<item drawable="cn_edu_zjicm_wordsnet_d_6092" />
 		<item drawable="abf_6093" />
 		<item drawable="com_unicom_woshipin_6094" />
+		<item drawable="chenmc_sms_code_helper_6095" />
+		<item drawable="com_jianshu_haruki_6096" />
+		<item drawable="jp_pxv_pawoo_6097" />
+		<item drawable="com_tencent_mm_6098" />
+		<item drawable="tech_evlsoc_captivemgr_6100" />
+		<item drawable="com_eg_android_alipaygphone_6101" />
+		<item drawable="com_android_messaging_6102" />
+		<item drawable="com_tencent_mm_6103" />
+		<item drawable="tech_evlsoc_captivemgr_6104" />
 	<!--AutoInjector End-->
 
 </resources>
