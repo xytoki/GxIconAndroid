@@ -6151,6 +6151,9 @@
 		<item>com_android_messaging_6102</item>
 		<item>com_tencent_mm_6103</item>
 		<item>tech_evlsoc_captivemgr_6104</item>
+		<item>com_tencent_qqmusic_6105</item>
+		<item>com_alicom_smartdail_6106</item>
+		<item>com_khrys_r6assistant_6107</item>
 	<!--AutoInjector End-->
     </string-array>
 

@@ -6152,6 +6152,9 @@
 		<item drawable="com_android_messaging_6102" />
 		<item drawable="com_tencent_mm_6103" />
 		<item drawable="tech_evlsoc_captivemgr_6104" />
+		<item drawable="com_tencent_qqmusic_6105" />
+		<item drawable="com_alicom_smartdail_6106" />
+		<item drawable="com_khrys_r6assistant_6107" />
 	<!--AutoInjector End-->
 
 </resources>
