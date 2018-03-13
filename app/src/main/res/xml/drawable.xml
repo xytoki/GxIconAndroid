@@ -6155,6 +6155,9 @@
 		<item drawable="com_tencent_qqmusic_6105" />
 		<item drawable="com_alicom_smartdail_6106" />
 		<item drawable="com_khrys_r6assistant_6107" />
+		<item drawable="com_dv_adm_pay_6108" />
+		<item drawable="com_google_android_inputmethod_latin_6109" />
+		<item drawable="me_pkhope_longscreenshot_6110" />
 	<!--AutoInjector End-->
 
 </resources>
