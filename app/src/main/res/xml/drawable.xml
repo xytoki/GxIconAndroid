@@ -6249,6 +6249,30 @@
 		<item drawable="com_letv_walletbiz_6205" />
 		<item drawable="com_cdbwsoft_weimiquan_6206" />
 		<item drawable="top_trumeet_mipush_6207" />
+		<item drawable="com_gxicon_jamie_6209" />
+		<item drawable="me_jbusdriver_6210" />
+		<item drawable="cn_tuhu_android_6211" />
+		<item drawable="com_baidu_tieba_6212" />
+		<item drawable="com_jingdong_app_mall_6213" />
+		<item drawable="com_smzdm_client_android_6214" />
+		<item drawable="com_taobao_idlefish_6215" />
+		<item drawable="com_tencent_mn_6216" />
+		<item drawable="com_tencent_mobileqq_6217" />
+		<item drawable="com_wuba_zhuanzhuan_6218" />
+		<item drawable="tv_danmaku_bili_6219" />
+		<item drawable="com_taobao_taobao_6220" />
+		<item drawable="com_sina_weibo_6221" />
+		<item drawable="cn_danatech_xingseapp_6222" />
+		<item drawable="com_autonavi_minimap_6223" />
+		<item drawable="com_chinamworld_bocmbci_6224" />
+		<item drawable="com_gdctl0000_6225" />
+		<item drawable="com_hexin_plat_android_6226" />
+		<item drawable="com_netease_cloudmusic_6227" />
+		<item drawable="com_qq_qcloud_6228" />
+		<item drawable="com_tenda_router_app_6229" />
+		<item drawable="jp_pxv_android_6230" />
+		<item drawable="com_taptap_6231" />
+		<item drawable="com_netease_gamecenter_6232" />
 	<!--AutoInjector End-->
 
 </resources>
