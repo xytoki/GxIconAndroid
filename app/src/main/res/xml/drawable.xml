@@ -6339,6 +6339,9 @@
 		<item drawable="com_oneplus_calendar_6297" />
 		<item drawable="com_apple_android_music_6298" />
 		<item drawable="com_android_browser_6299" />
+		<item drawable="com_xizi_quan_6300" />
+		<item drawable="com_tencent_mm_6301" />
+		<item drawable="com_jingdong_app_mall_6302" />
 	<!--AutoInjector End-->
 
 </resources>
